@@ -1,0 +1,115 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: ecas.indb
+Pagination Options : Continue from Previous Document
+
+Number of Documents :5
+
+PACKAGE DATE: 2023/6/14 13:29
+Creation Date: 
+Modification Date: 2023/6/14
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :On 2 Document(s)
+
+FONTS
+18 Fonts Used; 0 Missing, 10 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: ACaslonPro-Bold; Type: OpenType Type 1, Status: OK
+- Name: ACaslonPro-Italic; Type: OpenType Type 1, Status: OK
+- Name: ACaslonPro-Regular; Type: OpenType Type 1, Status: OK
+- Name: Arial-BoldMT; Type: TrueType, Status: Embedded
+- Name: Arial-ItalicMT; Type: TrueType, Status: Embedded
+- Name: ArialMT; Type: TrueType, Status: Embedded
+- Name: Myriad-Italic; Type: Type 1, Status: Embedded
+- Name: MyriadPro-Bold; Type: Type 1, Status: Embedded
+- Name: MyriadPro-Bold; Type: OpenType Type 1, Status: OK
+- Name: MyriadPro-Cond; Type: Type 1, Status: Embedded
+- Name: MyriadPro-It; Type: OpenType Type 1, Status: OK
+- Name: MyriadPro-Regular; Type: Type 1, Status: Embedded
+- Name: MyriadPro-Regular; Type: OpenType Type 1, Status: OK
+- Name: MyriadPro-Semibold; Type: OpenType Type 1, Status: OK
+- Name: OpenSans-Bold; Type: TrueType, Status: Embedded
+- Name: Symbol; Type: Type 1, Status: Embedded
+- Name: TahomaRegular; Type: Type 1, Status: Embedded
+- Name: TimesNewRomanPSMT; Type: OpenType TrueType, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 15.000; Lines/Inch: 60.000
+- Name and Type: Process Magenta; Angle: 75.000; Lines/Inch: 60.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 60.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 60.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 42 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 11 use RGB color space
+
+
+PRINT SETTINGS
+PPD: HP Universal Printing PS, (HP Universal Printing PS)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 mm, 0 mm, 0 mm, 0 mm
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: A4
+Paper Dimensions: 215.9 mm x 279.4 mm
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. ecas.indb; type: Adobe InDesign publication; size: 72K
+2. chapter0.indd; 3424K
+3. chapter1.indd; 2240K
+4. chapter2.indd; 2344K
+5. chapter3.indd; 3968K
+6. chapter4.indd; 1892K
+7. ACaslonPro-Bold.otf; type: Font file; size: 140K
+8. ACaslonPro-Italic.otf; type: Font file; size: 165K
+9. ACaslonPro-Regular.otf; type: Font file; size: 163K
+10. MyriadPro-Bold.otf; type: Font file; size: 101K
+11. MyriadPro-It.otf; type: Font file; size: 103K
+12. MYRIADPRO-REGULAR.OTF; type: Font file; size: 99K
+13. MYRIADPRO-SEMIBOLD.OTF; type: Font file; size: 101K
+14. times.ttf; type: Font file; size: 1178K
